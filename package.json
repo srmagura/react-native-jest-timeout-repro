@@ -1,0 +1,13 @@
+{
+  "name": "jest-expo-timeout-repro",
+  "packageManager": "yarn@3.2.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "babel-preset-expo": "^9.0.2",
+    "jest": "^27.5.1",
+    "jest-expo": "^44.0.1",
+    "react-native": "^0.68.1"
+  }
+}
